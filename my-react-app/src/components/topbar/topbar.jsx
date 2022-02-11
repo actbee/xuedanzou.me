@@ -7,7 +7,7 @@ export default function topbar({menuOpen, setMenuOpen}) {
         <div className = "wrapper">
             <div className = "left">
                <a href = "#intro" className = "logo">
-                    Xuedan ZOU.
+                    ZOU.
                </a>
                <div className = "itemContainer">
                    <LocalPhone className = "icon"/>
