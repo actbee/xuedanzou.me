@@ -39,6 +39,7 @@
            position: relative;
            transition: all .5s ease;
            cursor: pointer;
+           object-fit: 'contain';
 
            h3{
             position: absolute;
@@ -46,6 +47,7 @@
             }
 
             a{
+                height:100%;
                 z-index: 1;
                 img{
                 height: 200px;
