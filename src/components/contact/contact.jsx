@@ -13,12 +13,15 @@ export default function Contact() {
       <div className = "left">
         <ul>
          <li>
+         <img src = "assets/linkedin.png" alt = ""/>
            <a href = "https://www.linkedin.com/in/xuedan-zou-4386aa153/">Linkedin</a>
            </li>
            <li>
+           <img src = "assets/instagram.png" alt = ""/>
            <a href = "https://www.instagram.com/actbee40/">Instagram</a>
            </li>
            <li>
+           <img src = "assets/github.png" alt = ""/>
            <a href = "https://github.com/actbee">Github</a>
            </li>
            </ul>
