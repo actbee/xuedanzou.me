@@ -14,7 +14,9 @@ export default function Intro() {
            backSpeed: 50,
            showCursor: true,
            strings: ["A software programmer who is passionate to create something beautiful.",  
-           "Right now doing the master in Digital Arts at Dartmouth College."],
+           "Right now doing the master in Digital Arts at Dartmouth College.",
+           "Interested in the city design, mangas, video games and the city TOKYO.",
+           "From Fucheng, Sezchuan(涪城区，四川). Currently based in Hanover, NH."],
        });
   },[]);  
 
@@ -34,13 +36,21 @@ export default function Intro() {
                 <h1>
                     Xuedan ZOU
                 </h1>
+                <h1>
+                    邹 雪丹
+                </h1>
+                <h4>
+                    Here is my <a href="https://github.com/actbee/actbee.github.io/raw/master/cv/CV.pdf"> resume</a> .
+                </h4>
                 <h3>
                     <span ref={textRef}>
                     </span>
                 </h3>
+                <div class="arrow">
                 <a href="#portfolio">
                     <img src = "assets/down1.png" alt=""/>
                 </a>
+                </div>
             </div>
         </div>
     </div>
