@@ -40,7 +40,7 @@ export default function Intro() {
                     邹 雪丹
                 </h1>
                 <h4>
-                    Here is my <a href="https://github.com/actbee/actbee.github.io/raw/master/cv/CV.pdf"> resume</a> .
+                    Here is my <a href="assets/CV2022.pdf"> resume</a> .
                 </h4>
                 <h3>
                     <span ref={textRef}>
