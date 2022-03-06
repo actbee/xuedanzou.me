@@ -102,6 +102,14 @@ export const designPortfolio = [
         img:
         "https://github.com/actbee/Robot-project/raw/master/images/1.png?raw=true"
     }
+    {
+        id: 5,
+        title: "Custom Classroom",
+        link:
+        "https://journeys.dartmouth.edu/cs67group7project/",
+        img:
+        "https://github.com/actbee/actbee.github.io/blob/master/images/HCI.png?raw=true"
+    }
 ]
 export const daPortfolio = [
     {
