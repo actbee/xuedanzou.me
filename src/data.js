@@ -101,7 +101,7 @@ export const designPortfolio = [
         "https://actbee.github.io/Robot-project/",
         img:
         "https://github.com/actbee/Robot-project/raw/master/images/1.png?raw=true"
-    }
+    },
     {
         id: 5,
         title: "Custom Classroom",
