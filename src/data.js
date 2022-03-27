@@ -148,4 +148,13 @@ export const daPortfolio = [
         "https://github.com/actbee/Interactive-Light-System-Design-Based-On-Simple-Gesture-Recognition-/blob/master/images/chosen/7%7BSW0FDF9YZ%25(ILG%5DI5%5B2%25A.png?raw=true"
 
     },
+    {
+        id: 5,
+        title: "Computer Animation",
+        link:
+        "https://xuedananimation.wordpress.com/",
+        img:
+        "assets/animation.jpg"
+
+    },
 ]
