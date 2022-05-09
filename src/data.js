@@ -3,7 +3,7 @@ export const featuredPortfolio = [
         id: 1,
         title: "Sound Board",
         link:
-        "https://soundboard.carrd.co/",
+        "https://miraram.com/soundboard",
         img:
         "https://github.com/actbee/actbee.github.io/blob/master/images/soundboard.png?raw=true",
 
@@ -32,7 +32,7 @@ export const codePortfolio = [
         id: 1,
         title: "Sound Board",
         link:
-        "https://soundboard.carrd.co/",
+        "https://miraram.com/soundboard",
         img:
         "https://github.com/actbee/actbee.github.io/blob/master/images/soundboard.png?raw=true"
 
