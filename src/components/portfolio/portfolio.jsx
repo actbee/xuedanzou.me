@@ -82,6 +82,13 @@ export default function Portfolio() {
             </div>
                      ))}
             </div>
+
+            <div class="arrow">
+                <a href="#contact">
+                    <img src = "assets/down1.png" alt=""/>
+                </a>
+            </div>
+
         </div>
   );
 }

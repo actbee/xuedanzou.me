@@ -91,4 +91,23 @@
             }
         }
     }
+    
+    .arrow{
+      a{
+          position: absolute;
+          bottom:10px;
+          img{
+              width: 30px;
+              animation: arrowBlink 2s infinite;
+          }
+
+
+          @keyframes arrowBlink{
+              100%{
+                  opacity: 0;
+              }
+
+          }
+      }
+  }
 }

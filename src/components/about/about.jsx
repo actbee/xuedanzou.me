@@ -30,7 +30,11 @@ const videoURL2 = "../../../assets/TOKYO1990s.mp4"
                     The rightside video shows how his city in the game merges with the reality. </h2>
                 <br/>
                 <h2>Fun Facts: He received his graduate school admission letters from across 5 countries and 4 continents.</h2>    
-
+                </div>
+                <div class="arrow">
+                <a href="#portfolio">
+                    <img src = "assets/down1.png" alt=""/>
+                </a>
                 </div>
             </div>
             <div className = "background_videos">

@@ -47,7 +47,7 @@ export default function Intro() {
                     </span>
                 </h3>
                 <div class="arrow">
-                <a href="#portfolio">
+                <a href="#about">
                     <img src = "assets/down1.png" alt=""/>
                 </a>
                 </div>
