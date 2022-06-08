@@ -63,6 +63,14 @@ export const codePortfolio = [
         img:
         "https://github.com/actbee/actbee.github.io/blob/master/images/hand_grasp.png?raw=true"
 
+    },
+    {
+        id: 5,
+        title: "Folktales around the World",
+        link: 
+        "https://folktales248227885.wordpress.com/folktales-around-the-world",
+        img: 
+        "https://folktales248227885.files.wordpress.com/2022/06/69113038-1b21-4b37-9cf1-c1cf6e4e9d42.png",
     }
 
 
