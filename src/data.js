@@ -26,6 +26,14 @@ export const featuredPortfolio = [
         "https://github.com/actbee/Worm---a-game/blob/master/photos/4.png?raw=true"
 
     },
+    {
+        id: 4,
+        title: "Swimming Pools",
+        link:
+        "https://xuedananimation.wordpress.com/2022/08/30/the-pools/?preview=true",
+        img:
+        "https://xuedananimation.files.wordpress.com/2022/08/1421661914034_.pic_.jpg"
+    },
 ]
 export const codePortfolio = [
     {
@@ -117,7 +125,15 @@ export const designPortfolio = [
         "https://journeys.dartmouth.edu/cs67group7project/",
         img:
         "https://github.com/actbee/actbee.github.io/blob/master/images/HCI.png?raw=true"
-    }
+    },
+    {
+        id: 6,
+        title: "Swimming Pools",
+        link:
+        "https://xuedananimation.wordpress.com/2022/08/30/the-pools/?preview=true",
+        img:
+        "https://xuedananimation.files.wordpress.com/2022/08/1421661914034_.pic_.jpg"
+    },
 ]
 export const daPortfolio = [
     {
