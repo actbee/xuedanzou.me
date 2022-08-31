@@ -134,6 +134,14 @@ export const designPortfolio = [
         img:
         "https://xuedananimation.files.wordpress.com/2022/08/1421661914034_.pic_.jpg"
     },
+    {
+        id: 7,
+        title: "Rosebush",
+        link:
+        "https://rosebush316947517.wordpress.com/2022/08/31/rosebush/",
+        img:
+        "https://rosebush316947517.files.wordpress.com/2022/08/image.png"
+    },
 ]
 export const daPortfolio = [
     {
