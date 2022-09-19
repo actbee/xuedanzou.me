@@ -39,9 +39,10 @@ export default function Intro() {
                 <h1>
                     邹 雪丹
                 </h1>
-                <h4>
+                {/*<h4>
                     Here is my <a href="assets/CV2022.pdf"> resume</a> .
                 </h4>
+                */}
                 <h3>
                     <span ref={textRef}>
                     </span>
