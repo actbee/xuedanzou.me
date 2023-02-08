@@ -57,6 +57,7 @@ export default function Portfolio() {
   return (
     <div className = "portfolio" id = "portfolio">
         <h1>Portfolio</h1>
+        <div className = "spin">
         <ul>
            {list.map(item=>(
                <PortfolioList 
@@ -67,6 +68,7 @@ export default function Portfolio() {
                />
            ))}
         </ul>
+        </div>
         <div className="container">
             {data.map(d=>(
 
