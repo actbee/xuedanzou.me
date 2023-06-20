@@ -79,6 +79,14 @@ export const codePortfolio = [
         "https://folktales248227885.wordpress.com/folktales-around-the-world",
         img: 
         "https://folktales248227885.files.wordpress.com/2022/06/69113038-1b21-4b37-9cf1-c1cf6e4e9d42.png",
+    },
+    {
+        id: 6,
+        title: "DANI: The AI Dragon",
+        link: 
+        "https://www.hanaba-sabaa.me/dani-page",
+        img: 
+        "https://images.squarespace-cdn.com/content/v1/641cc29aed0354032f76fb0b/d4e54921-070e-40f2-9b5a-830b3c2b78e6/Group+304.png?format=1500w",
     }
 
 
