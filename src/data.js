@@ -19,21 +19,20 @@ export const featuredPortfolio = [
     },
     {
         id: 3,
-        title: "Worm---a game",
-        link:
-        "https://actbee.github.io/Worm---a-game/",
-        img:
-        "https://github.com/actbee/Worm---a-game/blob/master/photos/4.png?raw=true"
-
-    },
-    {
-        id: 4,
         title: "Swimming Pools",
         link:
         "https://xuedananimation.wordpress.com/2022/08/30/the-pools/?preview=true",
         img:
         "https://xuedananimation.files.wordpress.com/2022/08/1421661914034_.pic_.jpg"
     },
+    {
+        id: 4,
+        title: "Triple Helix",
+        link:
+        "https://xuedanzougr.wixsite.com/triple-helix",
+        img:
+        "assets/triplehelix.png"
+    }
 ]
 export const codePortfolio = [
     {
@@ -87,9 +86,15 @@ export const codePortfolio = [
         "https://www.hanaba-sabaa.me/dani-page",
         img: 
         "https://images.squarespace-cdn.com/content/v1/641cc29aed0354032f76fb0b/d4e54921-070e-40f2-9b5a-830b3c2b78e6/Group+304.png?format=1500w",
+    },
+    {
+        id: 7,
+        title: "Triple Helix",
+        link:
+        "https://xuedanzougr.wixsite.com/triple-helix",
+        img:
+        "assets/triplehelix.png"
     }
-
-
 ]
 export const designPortfolio = [
     {
@@ -197,4 +202,12 @@ export const daPortfolio = [
         "assets/animation.jpg"
 
     },
+    {
+        id: 6,
+        title: "Triple Helix",
+        link:
+        "https://xuedanzougr.wixsite.com/triple-helix",
+        img:
+        "assets/triplehelix.png"
+    }
 ]
