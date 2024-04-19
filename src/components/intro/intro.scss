@@ -30,13 +30,15 @@
 
             @include mobile{
                 align-items: flex-start;
+                width: 90%;
+                margin-left: 5%;
             }
 
             img{
                 height: 100%;
 
                 @include mobile{
-                    height:60%;
+                    height:70%;
                 }
             }
         }
