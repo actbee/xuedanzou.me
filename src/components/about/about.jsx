@@ -30,11 +30,11 @@ const videoURL2 = "../../../assets/TOKYO1990s.mp4"
                     He is eager to explore the possbillity of art, and open to meet new people. </h2>
                 <br/>
                 </div>
+                </div>
                 <div class="arrow">
                 <a href="#portfolio">
                     <img src = "assets/down1.png" alt=""/>
                 </a>
-                </div>
             </div>
             <div className = "background_videos">
              <div className = "left">
