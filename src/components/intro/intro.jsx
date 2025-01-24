@@ -13,7 +13,7 @@ export default function Intro() {
            backDelay: 1500,
            backSpeed: 50,
            showCursor: true,
-           strings: ["A software programmer who is passionate to create something beautiful.",  
+           strings: ["A software programmer who is also interested in business and art.",  
            "Right now working for Rakuten Group as a software engineer.",
            "Interested in art, urban design, video games and the city TOKYO.",
            "From Fucheng, Sezchuan(涪城区，四川). Currently based in Setagaya TOKYO."],
@@ -24,7 +24,7 @@ export default function Intro() {
     <div className = "intro" id = "intro">
         <div className="left">
             <div className="imgContainer">
-                <img src = "assets/xuedan2.jpg" width = "350px" alt = ""/>
+                <img src = "assets/xuedan2.png" width = "350px" alt = ""/>
             </div>
         </div>
         <div className="right">
