@@ -34,7 +34,10 @@
           align-items: center;
           .video_background{
             overflow-y:hidden; 
-        }
+          }
+          @include mobile{
+            flex: 0;
+          }
       }
    }
 
@@ -51,6 +54,10 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+
+        @include mobile{
+          width: 87%;
+        }
    }
    .texts{
        position: absolute;
@@ -63,12 +70,26 @@
        flex-direction: column;
        justify-content: center;
        align-items: center;
+
+       @include mobile{
+        width: 87%;
+       }
        
        .title{
           margin: 50px;
+
+          @include mobile{
+              margin: 20px;
+              height: 70px;
+          }
+
           h1{
             font-size: 50px;
             color: white;
+
+            @include mobile{
+              font-size: 30px;
+          }
            }
         }
         

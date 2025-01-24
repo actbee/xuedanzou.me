@@ -11,13 +11,18 @@
     .spin{
         position: absolute;
         top: 208%;
+
+        @include mobile{
+            top: 206%;
+        }
     }
 
     h1{
         font-size: 50px;
 
         @include mobile{
-            font-size: 20px;
+            font-size: 30px;
+            margin-top: 10px;
         }
     }
 
@@ -47,7 +52,8 @@
  
         @include mobile{
             width: 100%;
- 
+            top: 212%;
+            height: 80%
         }
  
  

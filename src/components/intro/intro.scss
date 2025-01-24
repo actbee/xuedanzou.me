@@ -10,13 +10,19 @@
     }
 
     .left{
-        flex: 0.4;
+        flex: 0.5;
         overflow: hidden;
         margin: 125px;
+        position:relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
 
         @include mobile{
-            flex:0.3;
-           margin: 50px;
+            flex:0.45;
+            margin: 30px;
         }
         
         .imgContainer{
@@ -24,9 +30,6 @@
             height: 350px;
             background-color: blueviolet;
             border-radius: 50%;
-            display: flex;
-            align-items: flex-end;
-            justify-content: center;
 
             @include mobile{
                 align-items: flex-start;
@@ -36,15 +39,11 @@
 
             img{
                 height: 100%;
-
-                @include mobile{
-                    height:70%;
-                }
             }
         }
     }
     .right{
-        flex: 0.6;
+        flex: 0.5;
         position:relative;
         margin-right: 100px;
 
@@ -65,7 +64,7 @@
             @include mobile{
                 padding-left: 0;
                 align-items: center;
-                justify-content: flex-start;
+                height: 50%;
             }
 
             h1{
